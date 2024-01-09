@@ -2,5 +2,10 @@ node_modules
 build 
 .next 
 .env 
-.nx
 dist
+
+
+.nx/cache
+apps/api/node_modules/
+apps/web/next-env.d.ts
+apps/web/node_modules/
